@@ -72,4 +72,4 @@ Data is stored only in memory; exiting the program clears all entries.
 IDs must be entered manually and are not auto-generated or checked for duplicates.
 
 License:
-This project is free to use for educational or personal purposes.
+This project is open source and free to use under the MIT License.
